@@ -13,5 +13,4 @@ pytz==2019.3
 requests==2.7.0
 six==1.14.0
 soupsieve==2.0
-telebot==0.0.3
 tornado==6.0.4
